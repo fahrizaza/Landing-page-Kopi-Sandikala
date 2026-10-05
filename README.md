@@ -1,6 +1,6 @@
 # ☕ Kopi Sandikala
 
-Kopi Sandikala adalah website company profile untuk sebuah coffee shop yang mengangkat konsep kopi Indonesia dengan tampilan modern, elegan, dan minimalis.
+Kopi Sandikala adalah website company profile untuk sebuah coffee shop yang mengangkat konsep kopi Indonesia dengan tampilan modern, elegan, dan minimalis..
 
 Website ini dirancang untuk memberikan informasi mengenai Kopi Sondokala, mulai dari cerita brand, pilihan menu, kategori produk, testimoni pelanggan, hingga informasi kontak.
 
